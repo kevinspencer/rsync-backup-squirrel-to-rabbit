@@ -6,5 +6,5 @@ rsync -avh --delete \
   --exclude=".Trashes" \
   --exclude=".TemporaryItems" \
   --exclude=".DocumentRevisions-V100*" \
-  "/Volumes/Squirrel/" \
-  "/Volumes/Rabbit/"
+  "/Volumes/squirrel/" \
+  "/Volumes/rabbit/"
